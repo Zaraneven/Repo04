@@ -1,6 +1,6 @@
 function main(numOne, numTwo){
-var remainder = numOne % numTwo;
-return remainder;
+    var remainder = numOne % numTwo;
+    return remainder;
 
 }
 console.log(main(5, 2));
